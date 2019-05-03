@@ -1,6 +1,6 @@
 var counter = document.querySelector(".counter"),
     count = 0,
-    bigMass = 10000,
+    bigMass = 1,
     smallMass = 1,
     bigSpeed = -1,
     smallSpeed = 0,
